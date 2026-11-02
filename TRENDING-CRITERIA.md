@@ -55,6 +55,9 @@ What good means when output is cheap.
 ### Topic: Running AI in practice
 Cost, adoption, org design and governance inside real teams and companies.
 
+### Topic: Pricing and business models for AI
+How AI products are priced and sold, and what that means for what teams build.
+
 ## Quality bar
 
 An item makes the list only if it passes all of these:
